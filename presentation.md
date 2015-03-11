@@ -329,4 +329,4 @@ You can view the source for this presentation at <https://github.com/myles/2015-
 
 ---
 
-![](beer.png)
+![](Beer.png)
